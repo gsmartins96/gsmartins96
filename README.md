@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**gsmartins96/gsmartins96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel. I am a Brazilian university student who loves programming and developing technological solutions that will make people's day more practical and less complicated. I'm currently focus on apps/web development.
 
-Here are some ideas to get you started:
+[![Gabriel Martins github stats](https://github-readme-stats.vercel.app/api?username=gsmartins96)](https://github.com/gsmartins96/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Guardiões da Saúde App and a Panel to manager
+- 🌱 I’m currently learning ReactJS, React Native, Ruby on Rails and sometimes a litte bit of NodeJS and TypeScript
+- 👯 I’m looking to collaborate on amazing projects
+
+### You can find me here
+
+- [LinkedIn](https://www.linkedin.com/in/gabrielmartins96/)
+- [Instagram](https://www.instagram.com/gabrielmarttins10/)
