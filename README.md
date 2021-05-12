@@ -4,7 +4,7 @@ My name is Gabriel. I am a Brazilian university student who loves programming an
 
 [![Gabriel Martins github stats](https://github-readme-stats.vercel.app/api?username=gsmartins96)](https://github.com/gsmartins96/github-readme-stats)
 
-- 🔭 I’m currently working on Guardiões da Saúde App and a Panel to manager
+- 🔭 I’m currently working on a startup with Ruby on Rails, React Native and ReactJS
 - 🌱 I’m currently learning ReactJS, React Native, Ruby on Rails and sometimes a litte bit of NodeJS and TypeScript
 - 👯 I’m looking to collaborate on amazing projects
 
