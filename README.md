@@ -10,4 +10,3 @@ My name is Gabriel. I am a Brazilian university student who loves programming an
 ### You can find me here
 
 - [LinkedIn](https://www.linkedin.com/in/gabrielmartins96/)
-- [Instagram](https://www.instagram.com/gabrielmarttins10/)
